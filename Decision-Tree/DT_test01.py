@@ -268,13 +268,26 @@ Parameters:
     centerPt - 文本位置
     parentPt - 标注的箭头位置
     nodeType - 结点格式
-Returns:
-    无
-Author:
-    Jack Cui
-Blog:
-    http://blog.csdn.net/c406495762
-Modify:
+"""
+"""
+函数说明:标注有向边属性值
+
+Parameters:
+    cntrPt、parentPt - 用于计算标注位置
+    txtString - 标注的内容
+
+"""
+"""
+函数说明:绘制决策树
+Parameters:
+    myTree - 决策树(字典)
+    parentPt - 标注的内容
+    nodeTxt - 结点名
+"""
+"""
+函数说明:创建绘制面板
+Parameters:
+    inTree - 决策树(字典)
 """
 
 
